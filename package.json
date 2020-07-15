@@ -1,0 +1,33 @@
+{
+  "name": "stg_node_cert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jrobertson1026/STG_Node_Cert.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jrobertson1026/STG_Node_Cert/issues"
+  },
+  "homepage": "https://github.com/Jrobertson1026/STG_Node_Cert#readme",
+  "dependencies": {
+    "@types/jest": "^26.0.0",
+    "@types/selenium-webdriver": "^4.0.9",
+    "edgedriver": "^4.17134.1",
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "ts-jest": "^26.1.0",
+    "typescript": "^3.9.5"
+  },
+  "devDependencies": {
+    "chromedriver": "^83.0.0",
+    "geckodriver": "^1.19.1",
+    "jest": "^26.0.1"
+  }
+}
